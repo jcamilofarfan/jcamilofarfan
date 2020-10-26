@@ -25,7 +25,7 @@ Currently I work in the Accounting / Payroll area of a logistics and transportat
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=farfan97&theme=prussian&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farfan97&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farfan97&layout=compact)
 
 <!--
 **farfan97/farfan97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
