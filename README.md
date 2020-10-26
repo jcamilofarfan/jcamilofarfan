@@ -1,4 +1,4 @@
-<link href="css/main.css" rel="stylesheet" type="text/css">
+<link href="main.css" rel="stylesheet" type="text/css">
 <h1>Juan Farfan</h1>
 <h3>Public Accountant Specialist in Labor Law and Social Security</h3>
 
