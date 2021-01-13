@@ -1,8 +1,8 @@
-<a href="https://twitter.com/juancamilofarfa">
+<a href="https://twitter.com/jcamilofarfan">
   <img align="left" alt="Camilo Farfan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
-<a href="https://www.linkedin.com/in juan-camilo-farfan-juanias-65b176168">
+<a href="https://www.linkedin.com/in/jcamilofarfan/">
   <img align="left" alt="Juan Camilo Farfan Juanias | LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
@@ -14,11 +14,12 @@
   <img align="left" alt="Sistemas Contables - Juan Farfan | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=farfan97.farfan97)
+![](https://visitor-badge.glitch.me/badge?page_id=jcamilofarfan.jcamilofarfan)
 
 
 <h1>Juan Farfan</h1>
 <h3>Public Accountant :mortar_board: Specialist in Labor Law and Social Security</h3>
+<h3>🌱 I’m currently learning Web Development</h3>
 
 <p>I have worked in various companies in some doing accounting work and in others not, in which I have acquired various skills and competences where I have been able to generate and learn tools that facilitate accounting work.
 Currently I work in the Accounting / Payroll area of a logistics and transportation organization located in Colombia, I love Education :books: and Technology :computer:, therefore I have decided to mix my profession with the hobbies and skills that I have acquired to teach others what I would have liked to know when it starts. </p>
