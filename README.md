@@ -10,7 +10,7 @@
   <img align="left" alt="Camilo Farfan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<a href="https://www.youtube.com/channel/UCP9HdiYMkLZ3YdqyFMOWF-w">
+<a href="https://www.youtube.com/channel/UCxCN-sqVFLgcTUuQUr_iFWw">
   <img align="left" alt="Sistemas Contables - Juan Farfan | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
