@@ -26,7 +26,7 @@ Currently I work in the Accounting / Payroll area of a logistics and transportat
 
 - 👨‍💻 All of my projects are available at [juancamilofarfan.com](https://juancamilofarfan.com)
 
-- 💬 Ask me about **React, Nest JS, Django, Accountant**
+- 💬 Ask me about **React, Nest JS, FastApi, Angular**
 
 - 📫 How to reach me **jcamilofarfan@contador.tech**
 
